@@ -106,3 +106,5 @@ Price trend forecasting
 ## Conclusion
 
 This project demonstrates a complete machine learning pipeline for flight ticket price prediction, from data preprocessing and EDA to model building and deployment. It provides an intuitive way for users to estimate airfare and understand factors affecting ticket prices.
+
+https://flight-ticket-price-predictor-5zizs9if3rpbvu7ai7xhpc.streamlit.app/
